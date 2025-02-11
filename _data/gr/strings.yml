@@ -1,0 +1,158 @@
+archive_category: ένα αρχείο αναρτήσεων σε αυτήν την κατηγορία
+archive_tag: ένα αρχείο αναρτήσεων με αυτήν την ετικέτα
+archive_year: ένα αρχείο αναρτήσεων από αυτό το έτος
+bibliography:
+  abstract: résumé
+  awarded: prix
+  blog: blogue
+  book_prefix: dans
+  code: code
+  last_author_prefix: et
+  poster: affiche
+  slides: diapos
+  supp: supp
+  url: URL
+  video: vidéo
+  website: site web
+blog:
+  navigation_title: ιστολόγιο
+categories:
+  fun: ψυχαγωγία
+  work: εργασία
+citation:
+  bibtex: "ou comme entrée BibTeX:"
+  introduction: "Si vous avez trouvé cela utile, veuillez le citer comme suit:"
+contact_note: Vous pouvez même ajouter une petite note indiquant lequel de ces moyens est le meilleur pour vous joindre.
+cv:
+  address: adresse
+  area: région
+  awarder: récipient(e)
+  awards: prixs
+  basics: informations générales
+  certificates: certificats
+  city: ville
+  countryCode: paysCode
+  courses: cours
+  date: date
+  education: éducation
+  email: courriel
+  endDate: date de fin
+  fluency: maîtrise
+  highlights: points clés
+  image: image
+  institution: institution
+  interests: intérêts
+  issuer: émetteur
+  keywords: mots-clés
+  label: poste
+  language: langue
+  languages: langues
+  level: niveau
+  location: emplacement
+  name: nom
+  network: réseau
+  organization: organisation
+  phone: téléphone
+  position: poste
+  postalCode: code postal
+  present: Présent
+  profiles: profils
+  projects: projets
+  publications: publications
+  publisher: éditeur
+  reference: référence
+  references: références
+  region: région
+  releaseDate: date de publication
+  score: score
+  skills: compétences
+  startDate: date de début
+  studyType: "domaine d'études"
+  summary: résumé
+  table_of_contents: table des matières
+  title: titre
+  url: site web
+  username: nom d'utilisateur
+  volunteer: bénévolat
+  work: travail
+footer:
+  copyright: "Πνευματικά δικαιώματα"
+  last_updated: "Τελευταία ενημέρωση στις "
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Τροφοδοτείται από <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> με το θέμα <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  Φιλοξενείται από <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Φωτογραφίες από <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+latest_posts: τελευταία άρθρα
+months:
+  long:
+    january: Ιανουάριος 
+    february: Φεβρουάριος
+    march: Μάρτιος
+    april: Απρίλιος
+    may: Μάιος
+    june: Ιούνιος
+    july: Ιούλιος
+    august: Αύγουστος
+    september: Σεπτέμβριος
+    october: Οκτώβριος
+    november: Νοέμβριος
+    december: Δεκέμβριος
+  short:
+    january: Ιαν
+    february: Φεβ
+    march: Μαρ
+    april: Απρ
+    may: Μάι
+    june: Ιουν
+    july: Ιουλ
+    august: Αυγ
+    september: Σεπ
+    october: Οκτ
+    november: Νοε
+    december: Δεκ
+news: νέα
+newsletter:
+  back: πίσω
+  error: "Ωχ! Κάτι πήγε στραβά, παρακαλώ δοκιμάστε ξανά."
+  subscribe: "εγγραφή"
+  subscribed: "Έχετε εγγραφεί με επιτυχία στο ενημερωτικό δελτίο."
+  subscribe_to_receive: "Εγγραφείτε για να λαμβάνετε ειδοποιήσεις για μελλοντικά άρθρα:"
+  too_many_signups: "Πάρα πολλές εγγραφές, δοκιμάστε ξανά σε λίγο."
+  wait: "Παρακαλώ περιμένετε..."
+no_news: "Κανένα νέο προς το παρόν..."
+no_posts: "Κανένα άρθρο προς το παρόν..."
+pagination:
+  page: page
+post:
+  created_in: Δημιουργήθηκε στις
+  created_by: από
+  last_updated: "Τελευταία ενημέρωση στις "
+references: αναφορές
+related_posts:
+  description: "Ακολουθούν άλλα άρθρα που μπορεί να σας ενδιαφέρει να διαβάσετε στη συνέχεια:"
+  title: "Σας άρεσε που διαβάσετε αυτό το άρθρο;"
+search:
+  dark_theme:
+    description: changer le thème du site en sombre
+    title: changer le thème en sombre
+  dropdown: Πτυσσόμενο μενού
+  email: envoyer un courriel
+  footer:
+    close: κλείσιμο
+    navigate: πλοήγηση
+    parent: επιστροφή στον γονέα
+    select: επιλογή
+  languages: Γλώσσες
+  light_theme:
+    description: Αλλαγή της εμφάνισης του ιστότοπου σε φωτεινή
+    title: Αλλαγή της εμφάνισης σε φωτεινή
+  navigation: Μενού πλοήγησης
+  news: Νέα
+  placeholder: Πληκτρολογήστε για να ξεκινήσετε την αναζήτηση
+  posts: Άρθρα
+  projects: Έργα
+  socials: Κοινωνικά δίκτυα
+  system_theme:
+    description: Αλλαγή της εμφάνισης του ιστότοπου σύμφωνα με το προεπιλεγμένο σύστημα
+    title: Χρησιμοποιήστε τη προεπιλεγμένη εμφάνιση του συστήματος
+  theme: θέμα
