@@ -4,8 +4,8 @@ layout: page
 title: FAQ
 permalink: /faq/
 description: A collection of frequently asked questions
-nav: true
-nav_order: 2
+nav: false
+nav_order: 3
 ---
 
-The information provided in this Frequently Asked Questions (FAQ) section is intended for general guidance.
+The Frequently Asked Questions (FAQ) section is available in Greek.
